@@ -45,6 +45,12 @@ body{
     font-weight: 700;
 }
 
+.question:hover,
+.question:active,
+.question:focus{
+    color: hsl(292, 16%, 49%);
+}
+
 .answer{
     margin: 1rem 0;
     display: none;
